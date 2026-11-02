@@ -37,8 +37,8 @@ const groups = [
       "baka tataymo magdabog pag nalamang pinapakain kita utenko",
       "yung papamo di kaya yan mainis pag nilamotak mo botoko",
       "yung bata mong kapatid tingnan tingnan muyan baka maagang lumaki powit nyan",
-      "sabihin mo sa nanay mong badjao mag palit sya ng panty abot dito ang baho e",",
-      "naiinis na young pepe mo sakin ah,
+      "sabihin mo sa nanay mong badjao mag palit sya ng panty abot dito ang baho e", 
+      "naiinis na young pepe mo sakin ah",
       "young mamamo pag sinapak ko yan tulog yan"
       "iniinis mo talaga buto ko pag yan pumunta sa mamamo baka lumaki butas ng pwet nan",
       "wag ka mag maktol jan porket di kita pinasupa kagabi",
