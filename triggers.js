@@ -61,7 +61,7 @@ const groups = [
       "batako di ako mawawala no time limit tayo dito.",
       "bugbugin ko young nanay mo pag dika lumapag dito",
       "naiinis naba young pepe mo sa buto ko? 🤣.",
-      "baby, may appointment ka po ba sa kabobohan today?",
+      "gusto mo ata lamutakin buto ko",
       "baby, ang sipag mo po gumawa ng problema.",
       "baby, proud ka po talaga sa ganyang take?",
       "baby, ang confidence mo po parang unlimited data.",
