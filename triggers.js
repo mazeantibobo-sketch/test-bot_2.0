@@ -9,8 +9,8 @@ const groups = [
     triggers: ["bot", "robot", "ai"],
     replies: [
       "aa supang supa ka nanaman sakin ah",
-      "pag ba pag pinalamutak ko utenku sa sayo papayag ka? ,
-      "bugbog abot mo sakin😂",
+      "pag ba pag pinalamutak ko utenku sa sayo papayag ka?",
+      "bugbog abot mo sakin",
       "yung utenku nde yan laruan para pag laruan mo😂",
       "papamo nagagalit sakin nung di kita pinasupapinasupa😂",
       "bisaya kaba bai na bai ka e😂",
