@@ -109,8 +109,8 @@ const groups = [
       "pag ginawa kung punching bag young belbel mo 🔮☄️",
       "wag moko inisin baka umpog ko sa pader lola mo🔮☄️",
       "iniinis mo talaga utenku meetup tayo rn", 
-      "wag mo gawing laruan utenku🔮☄️
-      "naging kamuka kana ni tuloy tikla kakasupa sakin🔮☄️",
+      "wag mo gawing laruan utenku🔮☄️", 
+      "naging kamuka kana ni tuloy tikla kakasupa sakin nyahaha🔮☄️",
       "masyado ka ng tumataba kakamukbang mu sa utenku hahaah🔮☄️",
       "baby, ang yabang mo po, gusto mo bang i-redeem sa lambing?",
       "baby, obvious po na gusto mo ng attention.",
