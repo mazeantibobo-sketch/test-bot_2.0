@@ -110,8 +110,8 @@ const groups = [
       "wag moko inisin baka umpog ko sa pader lola mo🔮☄️",
       "iniinis mo talaga utenku meetup tayo rn", 
       " wag mo gawing laruan utenku 🔮☄️
-      "pero no joke ang panget mo sa part nayan🔮☄️",
-      "masyado ka ng tumataba kakamukbang mo sa utenku 🔮☄️",
+      "nadedepressed kana kakachupa saken ah🔮☄️",
+      "masyado ka ng tumataba kakamukbang mu sa utenku 🔮☄️",
       "baby, ang yabang mo po, gusto mo bang i-redeem sa lambing?",
       "baby, obvious po na gusto mo ng attention.",
       "baby, nakuha mo na po attention ko, happy ka na?",
